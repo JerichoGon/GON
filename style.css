@@ -1,0 +1,16 @@
+
+	body{
+	background-color: lightblue;
+	border:3px solid black;
+	margin: 20px;
+	padding: 20px;
+	text-align: center;
+	}
+
+	#display-area {
+	text-align:center;
+	}
+	a:visited {
+		color:#000000;
+	  }
+	  
